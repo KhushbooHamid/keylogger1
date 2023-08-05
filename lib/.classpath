@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="src" path="src"/>
+    <classpathentry kind="lib" path="C:/Users/hp/Desktop/keylogger/lib/jnativehook-2.2.2.jar"/>
+    <!-- Add more classpathentry elements if needed -->
+    <classpathentry kind="output" path="bin"/>
+</classpath>
